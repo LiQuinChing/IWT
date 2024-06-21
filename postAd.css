@@ -1,0 +1,55 @@
+body{
+    background-image: url("imgs/box2.jpg");
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    margin:0;
+}
+
+
+input[type=text], select, textarea { /*text boxes*/
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0 30px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.ad {
+    border-radius: 5px;
+    background-color: mistyrose;
+    padding: 20px;
+}
+div.pinkblock{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.Btn {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border: none;
+    margin: 2px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.Btn:hover {
+    background-color: #0c5037;
+    cursor: pointer;
+}
+hr{
+    border-top:  deeppink 3px solid;
+  }
+.inside{
+    border-top:  black 1px solid;
+}

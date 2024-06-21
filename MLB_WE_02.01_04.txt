@@ -1,0 +1,29 @@
+Project link - https://mysliit-my.sharepoint.com/:u:/g/personal/it22246714_my_sliit_lk/ERJfMzwwvTtFtmQdqf4JTNIBSt_dJFP_XPdPIDeKnDVrFQ?e=WjsWJx
+
+
+Project Group ID: MLB_WE_02.01_04
+Batch No: Y1S2.WE.IT.02.01
+Topic : Online Advertising Agency
+
+IT22246714 Ching V.M.L		it22246714@my.sliit.lk   0717622423
+
+IT22124012 Perera J.A.P.P	it22124012@my.sliit.lk   0741820895
+
+IT22559722 Perera K.A.D.D.D	it22559722@my.sliit.lk   0721909016
+
+IT22183736 Ranasinghe H.A.V.N	it22183736@my.sliit.lk   0740183454
+
+IT22901194 Samarasinghe M.K.D	it22901194@my.sliit.lk   0717925592
+
+
+Implemented Functions
+
+IT22246714 - Category page, Post Ad page
+
+IT22124012 - Payment page
+
+IT22559722 - Contact us page, Careers page, Home page
+
+IT22183736 - Register page
+
+IT22901194 - Login page

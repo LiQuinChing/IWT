@@ -1,0 +1,56 @@
+body{
+    background-image: url("imgs/geo2.jpg");
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.insidecontent{
+  margin-left: 100px;
+  margin-right:100px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+  th{
+    background-color: navajowhite ;
+  }
+  
+  tr:nth-child(even) {
+    background-color: mintcream;
+  }
+  .Btn {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border: none;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+    
+  
+  .Btn:hover {
+    background-color: #0c5037;
+    cursor: pointer;
+  }
+hr{
+  border-top:  deeppink 3px solid;
+}
+.postBtn{
+  position: absolute;
+  top: 100px;
+  right: 20px;
+}

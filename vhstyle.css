@@ -1,0 +1,43 @@
+.main-body {
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url("imgs/sb.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    background-image: url("imgs/signuplogo.png");
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title01 {
+    font-family: "little";
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #111010;
+}
+
+
+ 
+.background {
+    background-image: url("imgs/sbs.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+} 
+
+.title02 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.regs{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
